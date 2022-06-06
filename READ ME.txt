@@ -1,0 +1,12 @@
+#get Your API KEY
+
+#Execute GPT-3 MODEL creation notebook
+ 
+#Get Model name
+
+#replace model and api key in server
+
+#API END POINT METHOD GET OR POST
+
+http://127.0.0.1:5000/query?query="YOUR QUERY"
+
