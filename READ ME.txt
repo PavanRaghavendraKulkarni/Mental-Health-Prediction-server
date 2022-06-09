@@ -8,5 +8,9 @@
 
 #API END POINT METHOD GET OR POST
 
+#for predict
 http://127.0.0.1:5000/query?query="YOUR QUERY"
+
+#for getText from Reddit
+http://127.0.0.1:5000/search?search="YOUR SEARCH TEXT"
 

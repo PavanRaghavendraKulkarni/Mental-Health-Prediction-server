@@ -30,6 +30,7 @@ docker-pycreds==0.4.0
 dtale==2.0.0
 entrypoints==0.3
 et-xmlfile==1.1.0
+filelock==3.7.1
 firebase-admin==5.0.0
 Flask==1.1.2
 Flask-Compress==1.11
@@ -58,6 +59,7 @@ grpcio==1.30.0
 gunicorn==20.0.4
 h5py==2.10.0
 httplib2==0.19.1
+huggingface-hub==0.7.0
 idna==2.10
 ipykernel==5.3.0
 ipython==7.15.0
@@ -170,11 +172,14 @@ termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
 threadpoolctl==2.1.0
+tokenizers==0.12.1
 toml==0.10.1
 tornado==6.1
 tqdm==4.62.3
 traitlets==4.3.3
+transformers==4.19.2
 typing==3.7.4.3
+typing-extensions==4.2.0
 tzlocal==2.1
 update-checker==0.18.0
 uritemplate==3.0.1
